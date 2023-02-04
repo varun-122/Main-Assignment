@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"name": "desktop-5",
+			"path": "desktop-5"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "desktop-5"
+	}
+}

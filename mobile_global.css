@@ -1,0 +1,104 @@
+:root {
+    /* fonts */
+    --button-text: "Source Sans Pro";
+    --font-open-sans: "Open Sans";
+    --font-poppins: Poppins;
+    --text-b: Inter;
+    --font-sf-pro-display: "SF Pro Display";
+  
+    /* font sizes */
+    --font-size-7xs: 7.81px;
+    --font-size-6xs: 7.46px;
+    --font-size-5xs: 8px;
+    --font-size-4xs: 9.32px;
+    --font-size-3xs: 10px;
+    --font-size-2xs: 12px;
+    --font-size-xs: 14px;
+    --font-size-sm: 14.32px;
+    --text-b-size: 16px;
+    --font-size-lg: 16.77px;
+    --font-size-xl: 18px;
+    --font-size-2xl: 20px;
+    --font-size-3xl: 24px;
+    --font-size-4xl: 32.8px;
+    --font-size-5xl: 32px;
+    --font-size-6xl: 42px;
+    --font-size-7xl: 48px;
+  
+    /* Colors */
+    --color-white: #fff;
+    --color-black: #000;
+    --color-forestgreen: #09b451;
+    --pri1-1: #242243;
+    --gray1: #333;
+    --black-fonts-headings: #2d2e2e;
+    --gray3: rgba(64, 64, 64, 0.8);
+    --color-honeydew: #e7faef;
+    --color-lightgray: #cecece;
+    --color-lightcyan-100: #e4ffff;
+    --color-lightcyan-200: #ddffff;
+    --pri2-3: rgba(10, 199, 90, 0.8);
+    --color-mediumseagreen: #3bd27b;
+    --color-darkgray: #a3a3a3;
+    --light-green-background: #eff6f3;
+  
+    /* Gaps */
+    --gap-5xs: 2px;
+    --gap-4xs: 2.26px;
+    --gap-3xs: 4px;
+    --gap-2xs: 6px;
+    --gap-xs: 8px;
+    --gap-sm: 12px;
+    --gap-md: 14.28px;
+    --gap-lg: 16px;
+    --gap-xl: 24px;
+    --gap-2xl: 32px;
+    --gap-3xl: 45px;
+    --gap-4xl: 48px;
+    --gap-5xl: 50px;
+  
+    /* Paddings */
+    --padding-3xs: 4px;
+    --padding-2xs: 8px;
+    --padding-xs: 12px;
+    --padding-sm: 18px;
+    --padding-md: 20px;
+    --padding-lg: 24px;
+    --padding-xl: 32px;
+    --padding-2xl: 42px;
+  
+    /* border radiuses */
+    --br-13xs: 1.2px;
+    --br-12xs: 2.79px;
+    --br-11xs: 3px;
+    --br-10xs: 3.81px;
+    --br-9xs: 4.47px;
+    --br-8xs: 4.16px;
+    --br-7xs: 5px;
+    --br-6xs: 5.99px;
+    --br-5xs: 6.89px;
+    --br-4xs: 6.02px;
+    --br-3xs: 7.61px;
+    --br-2xs: 10px;
+    --br-xs: 14px;
+    --br-sm: 15.23px;
+    --br-md: 16.3px;
+    --br-lg: 17.22px;
+    --br-xl: 17.5px;
+    --br-2xl: 17.84px;
+    --br-3xl: 20px;
+    --br-4xl: 24.14px;
+    --br-5xl: 25.3px;
+    --br-6xl: 28.93px;
+    --br-7xl: 28.29px;
+    --br-8xl: 30px;
+    --br-9xl: 40px;
+    --br-10xl: 44.74px;
+    --br-11xl: 44px;
+    --br-12xl: 50px;
+  
+    /* Effects */
+    --frosted-glass: blur(40px);
+    --shadow2: 0px 0px 20px rgba(203, 203, 203, 0.25);
+  }
+  

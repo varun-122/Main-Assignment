@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+section a {
+    text-decoration: none;
+    font-size: 72px;
+    color: black;
+    font-family: sans-serif;
+}
